@@ -1,10 +1,6 @@
 import java.io.*;
 import java.util.*;
-/*
-    Blog : https://sophia2730.tistory.com/
-    Baekjoon
-    탑 - 2493
-*/
+
 public class Main {
     public static StringTokenizer stk;
 
