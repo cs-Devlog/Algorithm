@@ -32,6 +32,7 @@ public class Main {
             if (stack.isEmpty()) bw.write("0 ");
             stack.push(new Pair(i, val));
         }
+        bw.flush();
         bw.close();
     }
 
