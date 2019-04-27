@@ -1,9 +1,3 @@
-/*
-    Baekjoon
-    7785 - 회사에 있는 사람
-    Blog : https://sophia2730.tistory.com/
-*/
-
 import java.io.*;
 import java.util.*;
 
